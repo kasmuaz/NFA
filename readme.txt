@@ -1,4 +1,4 @@
-Input settings for automaton are read from input file (ulazDFA.txt). Input file is structured in the following manner:
+Input settings for automaton are read from input file (ulazNFA.txt). Input file is structured in the following manner:
 alphabet: alphabet symbols
 noState: number of states
 delta: transition function (current state,next symbol in string,next state) or  (current state,next symbol in string,{next state,next state,...})
